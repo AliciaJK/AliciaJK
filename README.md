@@ -8,4 +8,4 @@ I have a background in aviation with my glider and private pilot license. I rece
 I am currently working at QlikTech Inc as a project coordinator for a large scale IT transformation. Post project, I will return to my role as an Application Specialist, working with Salesforce development. In the past I have worked for NAV CANADA and NASA, done research in avaition and development in SharePoint and Power BI. 
  https://aliciajk.github.io/AliciaJK-Portfolio/
 
-You can reach me at alicia.krolak4@gmail.com or by LinkedIn at Alicia Krolak. 
+You can reach me by LinkedIn at Alicia Krolak. 
